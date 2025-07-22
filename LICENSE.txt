@@ -1,5 +1,5 @@
 PDF Book Finder - Proprietary License
-Copyright (C) 2024 Vedu
+Copyright (C) 2025 Vedu
 
 All rights reserved.
 
