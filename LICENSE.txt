@@ -1,0 +1,12 @@
+PDF Book Finder - Proprietary License
+Copyright (C) 2024 Vedu
+
+All rights reserved.
+
+This software is provided to you under a proprietary license. You are permitted to use, download, and distribute the software in its original, unmodified binary form. You may not reverse engineer, modify, decompile, or create derivative works from the software.
+
+You may not distribute the software for commercial purposes without prior written permission.
+
+This software is provided “as-is” without warranty of any kind. In no event shall the author be liable for any damages arising from the use of this software.
+
+Contact: vedu.senpai25@gmail.com
